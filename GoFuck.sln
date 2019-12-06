@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoFuck", "GoFuck\GoFuck.csproj", "{77537B02-4719-4BAA-A57F-A4B9E685C191}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77537B02-4719-4BAA-A57F-A4B9E685C191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77537B02-4719-4BAA-A57F-A4B9E685C191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77537B02-4719-4BAA-A57F-A4B9E685C191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77537B02-4719-4BAA-A57F-A4B9E685C191}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BE25333-38B6-4051-A94D-04548425170B}
+	EndGlobalSection
+EndGlobal
